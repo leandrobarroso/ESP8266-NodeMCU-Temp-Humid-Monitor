@@ -16,8 +16,9 @@ Projeto IoT para monitoramento de temperatura e humidade. Obtém os dados atrav�
 
 ### Diagrama
 
-![Diagrama Circuito](/img/diagrama.png)
+![Diagrama Circuito](img/diagrama0.png)
 
 ### Imagem
 
-![Foto Protótipo](/img/prototipo0.png)
+![Foto Protótipo](img/prototipo1.png)
+![Foto Protótipo](img/prototipo2.png)
