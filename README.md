@@ -37,7 +37,8 @@ SAÍDAS:
 LINGUAGEM: C++</br>
 IDIOMA: Inglês (EN-US)</br>
 BIBLIOTECAS EXTERNAS:
-  * dht
-  * mqt
+  * DHT sensor library - https://github.com/adafruit/DHT-sensor-library
+  * ESP8266 OLED ssd1306 - https://github.com/ThingPulse/esp8266-oled-ssd1306
+  * PubSubClient - https://pubsubclient.knolleary.net/
 
 Licença: MIT
